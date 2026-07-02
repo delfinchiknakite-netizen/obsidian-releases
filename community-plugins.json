@@ -36965,5 +36965,12 @@
     "author": "ondreu",
     "description": "Powerful mass search and edit across your vault: nested AND/OR query builder, safe bulk frontmatter/tag/body operations, backups and undo. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ondreu/mass-editor"
+  },
+  {
+    "id": "excalidraw-stylus-menu",
+    "name": "Excalidraw Stylus Menu",
+    "author": "avtarasov210",
+    "description": "Stylus/S Pen gestures for Excalidraw: open an insert menu by tap or side button, tap objects for quick actions, and copy, paste or connect shapes.",
+    "repo": "delfinchiknakite-netizen/excalidraw-stylus-menu"
   }
 ]
