@@ -36965,5 +36965,12 @@
     "author": "ondreu",
     "description": "Powerful mass search and edit across your vault: nested AND/OR query builder, safe bulk frontmatter/tag/body operations, backups and undo. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ondreu/mass-editor"
+  },
+  {
+    "id": "yc-pages-publish",
+    "name": "YC Pages Publish",
+    "author": "avtarasov210",
+    "description": "Publish notes and folders as temporary (TTL) websites on S3-compatible object storage.",
+    "repo": "delfinchiknakite-netizen/obsidian-yc-pages-publish"
   }
 ]
